@@ -37,10 +37,12 @@ Please find the problem statement [here](https://www.innovaccer.com/media/hacker
 
 
 ### For Testing (Postman)
+- Postman extension can be used for testing !
+- Supercharge your API workflow with Postman! Build, test, and document your APIs faster.
+- You can now fire up postman and then perform several operations on the REST API.
 
--   Postman extension can be used for testing !
--   Supercharge your API workflow with Postman! Build, test, and document your APIs faster.
--   You can now fire up postman and then perform several operations on the REST API.
+   **See the documentation and request & response for all the APIs [HERE](https://documenter.getpostman.com/view/5575869/RWgtSwyq)**`
+
 
 ## How  it Works!!  
 ### Available API Routes
