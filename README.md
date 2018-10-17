@@ -44,7 +44,7 @@ Please find the problem statement [here](https://www.innovaccer.com/media/hacker
 
 ## How  it Works!! 
 
-> See the documentation and request & response for all the APIs [HERE](https://documenter.getpostman.com/view/5575869/RWgtSwyq)
+   ### See the documentation and request & response to all the APIs [HERE](https://documenter.getpostman.com/view/5575869/RWgtSwyq)
 
 ### Available API Routes
 
